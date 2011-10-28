@@ -1,0 +1,15 @@
+colorfmt
+========
+
+Easy to use ANSI escape codes for (UNIX) terminal formatting and colors.
+
+
+    Example usage::
+
+        from colorfmt import colorize
+        print colorize("{green}{bold}Hello World!{reset}")
+
+
+--
+
+Author: Daniel Kertesz
